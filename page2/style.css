@@ -1,0 +1,96 @@
+#gopng_home_outer {
+height: 40px;
+width: 39px;
+overflow: hidden;
+}
+#gopng_home {
+background: url(http://gopng/static/images/sprite.png) -0px -0px no-repeat;
+width: 100%;
+height: 100%;
+_background: none;
+_padding-left: 0px;
+_margin-left: -0px;
+_padding-top: 0px;
+_margin-top: -0px;
+_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=crop,src="http://gopng/static/images/sprite.png");
+}
+#gopng_delete_outer {
+height: 36px;
+width: 36px;
+overflow: hidden;
+}
+#gopng_delete {
+background: url(http://gopng/static/images/sprite.png) -39px -0px no-repeat;
+width: 100%;
+height: 100%;
+_background: none;
+_padding-left: 39px;
+_margin-left: -39px;
+_padding-top: 0px;
+_margin-top: -0px;
+_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=crop,src="http://gopng/static/images/sprite.png");
+}
+#gopng_knife_outer {
+height: 30px;
+width: 30px;
+overflow: hidden;
+}
+#gopng_knife {
+background: url(http://gopng/static/images/sprite.png) -75px -0px no-repeat;
+width: 100%;
+height: 100%;
+_background: none;
+_padding-left: 75px;
+_margin-left: -75px;
+_padding-top: 0px;
+_margin-top: -0px;
+_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=crop,src="http://gopng/static/images/sprite.png");
+}
+#gopng_search_outer {
+height: 30px;
+width: 30px;
+overflow: hidden;
+}
+#gopng_search {
+background: url(http://gopng/static/images/sprite.png) -105px -0px no-repeat;
+width: 100%;
+height: 100%;
+_background: none;
+_padding-left: 105px;
+_margin-left: -105px;
+_padding-top: 0px;
+_margin-top: -0px;
+_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=crop,src="http://gopng/static/images/sprite.png");
+}
+#gopng_lock_outer {
+height: 30px;
+width: 30px;
+overflow: hidden;
+}
+#gopng_lock {
+background: url(http://gopng/static/images/sprite.png) -135px -0px no-repeat;
+width: 100%;
+height: 100%;
+_background: none;
+_padding-left: 135px;
+_margin-left: -135px;
+_padding-top: 0px;
+_margin-top: -0px;
+_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=crop,src="http://gopng/static/images/sprite.png");
+}
+#gopng_help_outer {
+height: 30px;
+width: 30px;
+overflow: hidden;
+}
+#gopng_help {
+background: url(http://gopng/static/images/sprite.png) -165px -0px no-repeat;
+width: 100%;
+height: 100%;
+_background: none;
+_padding-left: 165px;
+_margin-left: -165px;
+_padding-top: 0px;
+_margin-top: -0px;
+_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=crop,src="http://gopng/static/images/sprite.png");
+}

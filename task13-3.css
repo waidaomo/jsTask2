@@ -1,0 +1,164 @@
+.g {
+  max-width: 640px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  top: 77px;
+  margin-bottom: 8rem; }
+
+.g-result {
+  background: #29bde0;
+  text-align: center;
+  margin: auto;
+  overflow: hidden; }
+
+.g-r-p1 {
+  width: 60%;
+  font-size: 2.8rem;
+  text-align: left;
+  margin: auto;
+  color: #ffc865; }
+
+.g-r-p2 {
+  width: 60%;
+  margin: 4rem auto 2rem;
+  text-align: left;
+  font-size: 2.8rem;
+  color: #fff; }
+
+.g-list {
+  list-style: none;
+  padding: 0 17%;
+  margin: 0;
+  padding: 0; }
+
+.g-list-t {
+  padding: 1% 10% 0 19%;
+  font-size: 2.8rem;
+  color: #666;
+  border-bottom: 1px solid #ddd; }
+
+.time {
+  font-size: 2rem;
+  border: none;
+  color: #ccc;
+  background: #fff;
+  float: right; }
+
+.g-list-p {
+  font-size: 1.6rem;
+  color: #999;
+  line-height: 3rem; }
+
+footer {
+  position: fixed;
+  bottom: 0;
+  height: 8rem;
+  line-height: 8rem;
+  z-index: 1;
+  text-align: center;
+  max-width: 640px;
+  width: 100%;
+  background: rgba(41, 189, 224, 0.5); }
+
+footer a {
+  font-size: 3rem;
+  width: 40%;
+  border-radius: 10px;
+  padding: 1rem 3rem;
+  text-decoration: none;
+  color: #fff; }
+
+footer a:hover {
+  text-decoration: none; }
+
+.again {
+  border: 1px solid #f66f6f;
+  background: #f66f6f;
+  margin-right: 5%; }
+
+.share {
+  border: 1px solid #fbb435;
+  background: #fbb435;
+  margin-left: 5%; }
+
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  .page3-a {
+    width: 10%;
+    padding-top: 10%; }
+
+  .page3-btn {
+    width: 10%;
+    padding-top: 10%; }
+
+  .g-list-t {
+    padding: 1% 10% 0 15%; }
+
+  .page3-h {
+    font-size: 25px; }
+
+  .g-r-i {
+    max-width: 100%;
+    padding: 10%; }
+
+  .g-r-p1 {
+    font-size: 2rem;
+    width: 70%; }
+
+  .g-r-p2 {
+    font-size: 1.5rem;
+    width: 70%; }
+
+  .g-list-t {
+    font-size: 2rem; }
+
+  .time {
+    font-size: 1.5rem; }
+
+  .g-list-p {
+    font-size: 1rem; }
+
+  footer a {
+    font-size: 2rem;
+    padding: 1rem 1rem; } }
+@media screen and (min-width: 480px) and (max-width: 600px) {
+  .page3-a {
+    width: 10%;
+    padding-top: 10%; }
+
+  .page3-btn {
+    width: 10%;
+    padding-top: 10%; }
+
+  .g-list-t {
+    padding: 1% 10% 0 15%; }
+
+  .g-r-p1 {
+    width: 70%; }
+
+  .g-r-p2 {
+    font-size: 2rem;
+    width: 70%; }
+
+  footer a {
+    font-size: 2.2rem; } }
+@media screen and (min-width: 600px) and (max-width: 700px) {
+  .page3-a {
+    width: 8%;
+    padding-top: 8%; }
+
+  .page3-btn {
+    width: 8%;
+    padding-top: 8%; }
+
+  .g-list-t {
+    padding: 1% 10% 0 15%; }
+
+  .g-r-p1 {
+    width: 70%; }
+
+  .g-r-p2 {
+    width: 70%;
+    font-size: 2.4rem; } }
+
+/*# sourceMappingURL=task13-3.css.map */

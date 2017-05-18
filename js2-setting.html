@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>桌游精灵玩家设置</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
+	<link rel="stylesheet" type="text/css" href="normalize.css">
+	<link rel="stylesheet" type="text/css" href="common.css">
+	<link rel="stylesheet" type="text/css" href="js2-setting.css">
+</head>
+<body>
+	<header class="page-set">
+		<a href="js2-home.html"><button class="page-set-btn1"></button></a>
+		<p class="page-set-h">参数设置</p>
+		<button class="page-set-btn2"></button> 
+	</header>
+	<main>
+		<div class="set">
+			<div class="player"><span>玩家配比</span></div>
+			<div class="set-array">
+				<ul id="set_list"></ul>
+				<button class="click-set" id="btn_set">点击设置<i></i></button>		
+			</div>			
+		</div>
+		<div class="watter">
+			<p>水民词组</p>
+			<p>幽灵词组</p>
+		</div>
+		<div class="man">
+			<p>玩家人数
+				<label for="man-total">
+					<input type="text" name="text" id="man_total" value="4" maxlength="2">
+				</label>
+				人
+			</p>
+			<div class="change">
+				<button class="reduce" id="btn_reduce"></button>
+				<label for="range">
+					<input type="range" name="range" id="range" min="4" max="18" step="1" value="4">
+				</label>
+				<button class="add" id="btn_add"></button>
+			</div>
+		</div>
+		<button id="go">去发牌</button>
+	</main>
+	<script src="js2-setting.js"></script>
+</body>
+</html>
